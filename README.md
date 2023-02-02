@@ -28,5 +28,7 @@
 <img align="center" alt="Maria-Bootstrap" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
   <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+
 
 </div>
