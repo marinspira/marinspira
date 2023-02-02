@@ -12,7 +12,7 @@
 ##
 
 - 🔭 Atualmente trabalho na @Feedz como desenvolvedora fullstack, com as tecnologias JavaScript e PHP utilizando frameworks como o Bootstrap e o CodeIgniter.
-- 🌱 Atualmente estou me desenvolvedo na área de front-end estudando os frameworks React e Vue.js
+- 🌱 Atualmente estou me desenvolvedo na área de front-end estudando os frameworks React e Vue.js, e testes unitários com Jest e ESList.
 - 📫 Você consegue me contatar pelo LinkedIn (https://www.linkedin.com/in/iamaria/), ou pelo email marinspiraa@gmail.com (com dois a) :)
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Iniciei na área de desenvolvimento aos 12 anos de idade pois criei um blog para fazer resenhas de livros haha 
@@ -27,6 +27,7 @@
 <img align="center" alt="Maria-Bitbucket" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 <img align="center" alt="Maria-Bootstrap" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+  <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Maria-CodeIgniter" width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 
