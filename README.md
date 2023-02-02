@@ -18,7 +18,7 @@
 - ⚡ Fun fact: Iniciei na área de desenvolvimento aos 12 anos de idade pois criei um blog para fazer resenhas de livros haha 
 
 
-![Snake animation] (https://github.com/marinspira/marinspira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marinspira/marinspira/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <img align="center" alt="Maria-JavaScript" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
