@@ -12,7 +12,7 @@
 ##
 
 - 🔭 Atualmente trabalho na @Feedz como desenvolvedora fullstack, com as tecnologias JavaScript e PHP utilizando frameworks como o Bootstrap e o CodeIgniter.
-- 🌱 Estou me desenvolvedo na área de front-end estudando os frameworks React e Vue.js, e testes unitários com Jest e ESList.
+- 🌱 Estou me desenvolvedo na área de front-end estudando os frameworks React e Vue.js, e testes unitários com Jest.
 - 📫 Você consegue me contatar pelo LinkedIn (https://www.linkedin.com/in/iamaria/), ou pelo email marinspiraa@gmail.com (com dois a) :)
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Iniciei na área de desenvolvimento aos 12 anos de idade pois criei um blog para fazer resenhas de livros e fiquei viciada em personalizá-lo haha 
