@@ -13,8 +13,6 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Iniciei na área de desenvolvimento aos 12 anos de idade pois criei um blog para fazer resenhas de livros e fiquei viciada em personalizá-lo haha 
 
-![Snake animation](https://github.com/marinspira/marinspira/blob/output/github-contribution-grid-snake.svg)
-
 <div>
 <img align="center" alt="Maria-JavaScript" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Maria-HTML" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
