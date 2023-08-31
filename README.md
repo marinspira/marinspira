@@ -5,10 +5,6 @@
 <img height="183em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marinspira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
-
-
-
 ##
 
 - 🔭 Atualmente trabalho na @Feedz como desenvolvedora fullstack, com as tecnologias JavaScript e PHP utilizando frameworks como o Bootstrap e o CodeIgniter.
@@ -16,7 +12,6 @@
 - 📫 Você consegue me contatar pelo LinkedIn (https://www.linkedin.com/in/iamaria/), ou pelo email marinspiraa@gmail.com (com dois a) :)
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Iniciei na área de desenvolvimento aos 12 anos de idade pois criei um blog para fazer resenhas de livros e fiquei viciada em personalizá-lo haha 
-
 
 ![Snake animation](https://github.com/marinspira/marinspira/blob/output/github-contribution-grid-snake.svg)
 
