@@ -7,7 +7,7 @@
 
 ##
 
-- 🔭 Currently, I work at @Feedz as a full-stack developer, using JavaScript and PHP technologies with frameworks like Bootstrap and CodeIgniter.
+- 🔭 I develop software for web and mobile using with React.js, React Native, Next.js, Node.js, Express.js, and MongoDB.
 - 🌱 I'm expanding my skills in front-end, studying React and Vue.js frameworks, and unit testing with Jest.
 - 📫 You can see my portfolio (https://marinspira.github.io/), reach me on LinkedIn (https://www.linkedin.com/in/iamaria/) or via email at mariaferreira.developer@gmail.com :)
 - 😄 Pronouns: she/her
