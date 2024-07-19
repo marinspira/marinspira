@@ -9,7 +9,7 @@
 
 - 🔭 Currently, I work at @Feedz as a full-stack developer, using JavaScript and PHP technologies with frameworks like Bootstrap and CodeIgniter.
 - 🌱 I'm expanding my skills in front-end, studying React and Vue.js frameworks, and unit testing with Jest.
-- 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/iamaria/) or via email at marinspiraa@gmail.com (with two 'a's) :)
+- 📫 You can see my projects (https://marinspira.github.io/), reach me on LinkedIn (https://www.linkedin.com/in/iamaria/) or via email at mariaferreira.developer@gmail.com (with two 'a's) :)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started coding at 12 by creating a blog for book reviews and got hooked on customizing it haha
 
