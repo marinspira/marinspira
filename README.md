@@ -8,7 +8,6 @@
 ##
 
 - 🔭 I develop software for web and mobile using with React.js, React Native, Next.js, Node.js, Express.js, and MongoDB.
-- 🌱 I'm expanding my skills in front-end, studying React and Vue.js frameworks, and unit testing with Jest.
 - 📫 You can see my portfolio (https://marinspira.github.io/), reach me on LinkedIn (https://www.linkedin.com/in/iamaria/) or via email at mariaferreira.developer@gmail.com :)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started coding at 12 by creating a blog for book reviews and got hooked on customizing it haha
